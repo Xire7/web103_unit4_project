@@ -1,12 +1,11 @@
 import React from 'react'
 import '../App.css'
+import MenuBar from '../components/MenuBar'
 
 const CreateCar = () => {
 
     return (
-        <div>
-
-        </div>
+        <MenuBar />
     )
 }
 
